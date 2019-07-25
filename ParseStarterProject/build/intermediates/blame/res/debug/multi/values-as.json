@@ -1,0 +1,368 @@
+[
+    {
+        "outputFile": "/Users/critsu/AndroidStudioProjects/Uber Clone/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-as/values-as.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 109,
+                    "endOffset": 210
+                },
+                "from": {
+                    "file": "/Users/critsu/AndroidStudioProjects/Uber Clone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/17.0.0/res/values-as/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 245,
+                        "endColumn": 105,
+                        "endOffset": 350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 215,
+                    "endColumn": 184,
+                    "endOffset": 395
+                },
+                "from": {
+                    "file": "/Users/critsu/AndroidStudioProjects/Uber Clone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/17.0.0/res/values-as/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 351,
+                        "endColumn": 184,
+                        "endOffset": 535
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 400,
+                    "endColumn": 124,
+                    "endOffset": 520
+                },
+                "from": {
+                    "file": "/Users/critsu/AndroidStudioProjects/Uber Clone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/17.0.0/res/values-as/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 536,
+                        "endColumn": 120,
+                        "endOffset": 656
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 525,
+                    "endColumn": 111,
+                    "endOffset": 632
+                },
+                "from": {
+                    "file": "/Users/critsu/AndroidStudioProjects/Uber Clone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/17.0.0/res/values-as/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 657,
+                        "endColumn": 107,
+                        "endOffset": 764
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 637,
+                    "endColumn": 188,
+                    "endOffset": 821
+                },
+                "from": {
+                    "file": "/Users/critsu/AndroidStudioProjects/Uber Clone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/17.0.0/res/values-as/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 765,
+                        "endColumn": 188,
+                        "endOffset": 953
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 826,
+                    "endColumn": 123,
+                    "endOffset": 945
+                },
+                "from": {
+                    "file": "/Users/critsu/AndroidStudioProjects/Uber Clone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/17.0.0/res/values-as/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 954,
+                        "endColumn": 119,
+                        "endOffset": 1073
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 950,
+                    "endColumn": 142,
+                    "endOffset": 1088
+                },
+                "from": {
+                    "file": "/Users/critsu/AndroidStudioProjects/Uber Clone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/17.0.0/res/values-as/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 1074,
+                        "endColumn": 138,
+                        "endOffset": 1212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1093,
+                    "endColumn": 141,
+                    "endOffset": 1230
+                },
+                "from": {
+                    "file": "/Users/critsu/AndroidStudioProjects/Uber Clone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/17.0.0/res/values-as/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 1213,
+                        "endColumn": 137,
+                        "endOffset": 1350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1235,
+                    "endColumn": 184,
+                    "endOffset": 1415
+                },
+                "from": {
+                    "file": "/Users/critsu/AndroidStudioProjects/Uber Clone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/17.0.0/res/values-as/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 247,
+                        "endColumn": 184,
+                        "endOffset": 431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1420,
+                    "endColumn": 201,
+                    "endOffset": 1617
+                },
+                "from": {
+                    "file": "/Users/critsu/AndroidStudioProjects/Uber Clone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/17.0.0/res/values-as/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 1351,
+                        "endColumn": 201,
+                        "endOffset": 1552
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1622,
+                    "endColumn": 109,
+                    "endOffset": 1727
+                },
+                "from": {
+                    "file": "/Users/critsu/AndroidStudioProjects/Uber Clone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/17.0.0/res/values-as/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 1553,
+                        "endColumn": 105,
+                        "endOffset": 1658
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1732,
+                    "endColumn": 179,
+                    "endOffset": 1907
+                },
+                "from": {
+                    "file": "/Users/critsu/AndroidStudioProjects/Uber Clone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/17.0.0/res/values-as/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 0,
+                        "startOffset": 1659,
+                        "endColumn": 179,
+                        "endOffset": 1838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1912,
+                    "endColumn": 125,
+                    "endOffset": 2033
+                },
+                "from": {
+                    "file": "/Users/critsu/AndroidStudioProjects/Uber Clone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/17.0.0/res/values-as/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 1839,
+                        "endColumn": 121,
+                        "endOffset": 1960
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 2038,
+                    "endColumn": 190,
+                    "endOffset": 2224
+                },
+                "from": {
+                    "file": "/Users/critsu/AndroidStudioProjects/Uber Clone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/17.0.0/res/values-as/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 1961,
+                        "endColumn": 190,
+                        "endOffset": 2151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 2229,
+                    "endColumn": 182,
+                    "endOffset": 2407
+                },
+                "from": {
+                    "file": "/Users/critsu/AndroidStudioProjects/Uber Clone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/17.0.0/res/values-as/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 2152,
+                        "endColumn": 178,
+                        "endOffset": 2330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 2412,
+                    "endColumn": 89,
+                    "endOffset": 2497
+                },
+                "from": {
+                    "file": "/Users/critsu/AndroidStudioProjects/Uber Clone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/17.0.0/res/values-as/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 2331,
+                        "endColumn": 85,
+                        "endOffset": 2416
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 2502,
+                    "endColumn": 95,
+                    "endOffset": 2593
+                },
+                "from": {
+                    "file": "/Users/critsu/AndroidStudioProjects/Uber Clone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/17.0.0/res/values-as/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 2417,
+                        "endColumn": 91,
+                        "endOffset": 2508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2598,
+                    "endColumn": 115,
+                    "endOffset": 2709
+                },
+                "from": {
+                    "file": "/Users/critsu/AndroidStudioProjects/Uber Clone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/17.0.0/res/values-as/values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 0,
+                        "startOffset": 2509,
+                        "endColumn": 111,
+                        "endOffset": 2620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2714,
+                    "endColumn": 100,
+                    "endOffset": 2810
+                },
+                "from": {
+                    "file": "/Users/critsu/AndroidStudioProjects/Uber Clone/ParseStarterProject/build/intermediates/exploded-aar/androidx.core/core/1.0.0/res/values-as/values-as.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 100,
+                        "endOffset": 151
+                    }
+                }
+            }
+        ]
+    }
+]

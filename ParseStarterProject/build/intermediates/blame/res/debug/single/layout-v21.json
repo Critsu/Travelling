@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/Users/robpercival/Desktop/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/critsu/AndroidStudioProjects/Uber Clone/ParseStarterProject/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/critsu/AndroidStudioProjects/Uber Clone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/critsu/AndroidStudioProjects/Uber Clone/ParseStarterProject/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/critsu/AndroidStudioProjects/Uber Clone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/Users/robpercival/AndroidStudioProjects/Uber/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/critsu/AndroidStudioProjects/Uber Clone/ParseStarterProject/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/Users/critsu/AndroidStudioProjects/Uber Clone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.8.0/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/critsu/AndroidStudioProjects/Uber Clone/ParseStarterProject/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/critsu/AndroidStudioProjects/Uber Clone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/critsu/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/Users/critsu/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/critsu/AndroidStudioProjects/Uber Clone/ParseStarterProject/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/critsu/AndroidStudioProjects/Uber Clone/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

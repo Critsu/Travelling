@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/critsu/AndroidStudioProjects/Uber Clone/ParseStarterProject/build/intermediates/res/merged/debug/drawable-tvdpi/ic_plusone_medium_off_client.png",
+        "source": "/Users/critsu/AndroidStudioProjects/Uber Clone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/res/drawable-tvdpi/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/Users/critsu/AndroidStudioProjects/Uber Clone/ParseStarterProject/build/intermediates/res/merged/debug/drawable-tvdpi/ic_plusone_standard_off_client.png",
+        "source": "/Users/critsu/AndroidStudioProjects/Uber Clone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/res/drawable-tvdpi/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/Users/critsu/AndroidStudioProjects/Uber Clone/ParseStarterProject/build/intermediates/res/merged/debug/drawable-tvdpi/ic_plusone_small_off_client.png",
+        "source": "/Users/critsu/AndroidStudioProjects/Uber Clone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/res/drawable-tvdpi/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/Users/critsu/AndroidStudioProjects/Uber Clone/ParseStarterProject/build/intermediates/res/merged/debug/drawable-tvdpi/ic_plusone_tall_off_client.png",
+        "source": "/Users/critsu/AndroidStudioProjects/Uber Clone/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/res/drawable-tvdpi/ic_plusone_tall_off_client.png"
+    }
+]
